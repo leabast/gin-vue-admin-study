@@ -39,7 +39,7 @@
                   <close />
                 </el-icon>
               </p>
-              <p class="person-info">这个家伙很懒，什么都没有留下</p>
+              <p class="person-info">终极目标-全天候无线发电</p>
             </div>
             <div class="user-information">
               <ul>
@@ -52,21 +52,21 @@
                 <el-tooltip
                   class="item"
                   effect="light"
-                  content="北京反转极光科技有限公司-技术部-前端事业群"
+                  content="特斯拉电力有限公司"
                   placement="top"
                 >
                   <li>
                     <el-icon>
                       <data-analysis />
                     </el-icon>
-                    北京反转极光科技有限公司-技术部-前端事业群
+                    特斯拉电力有限公司
                   </li>
                 </el-tooltip>
                 <li>
                   <el-icon>
                     <video-camera />
                   </el-icon>
-                  中国·北京市·朝阳区
+                  中国·宁波市·海曙区
                 </li>
                 <el-tooltip
                   class="item"
